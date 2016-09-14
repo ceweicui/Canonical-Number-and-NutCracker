@@ -1,0 +1,7 @@
+srg/64-18-2-6.srg.csv
+srg_result/64-18-2-6.srg.csv.result
+checking graph isomorphism number (from 0) i= 0......... .............correspondence checked
+ERROR --- the size of T DOESNT MATCH the numNodes in G
+ERROR --- the size of T DOESNT MATCH the numNodes in G
+checking graph isomorphism number (from 0) i= 100......... .............correspondence checked
+Energy's written into output files
